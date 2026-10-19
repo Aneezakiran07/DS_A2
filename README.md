@@ -1,4 +1,4 @@
-<img width="1488" height="497" alt="image" src="https://github.com/user-attachments/assets/d9b8190a-da2b-4eed-810a-ce045c141e04" /># Assignment 2 Cleaned Datasets (23L-0707)
+Cleaned Datasets (23L-0707)
 
 Version: v1.0
 Date: 19 October 2026
